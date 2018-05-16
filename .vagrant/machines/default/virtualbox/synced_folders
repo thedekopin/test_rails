@@ -1,0 +1,1 @@
+{"rsync":{},"virtualbox":{"/vagrant":{"type":"virtualbox","guestpath":"/vagrant","hostpath":"/Users/kazu/Github/test_rails","disabled":false,"__vagrantfile":true}}}
